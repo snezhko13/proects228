@@ -1,0 +1,100 @@
+﻿"#Note: Please remove semicolon (;) from your file editor's list of delimiter or separator characters.",,,,,,;
+#Code;Name;Sizes;Description;Placements;Target Window;Labels;Special Ad Unit
+t_amodays_01,t_amodays_01,"Fluid; 1x1; 300x250; 320x50; 320x100; 360x360; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_01_page_2,t_amodays_01_page_2,"Fluid; 300x250; 320x50; 320x100; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_01_page_3,t_amodays_01_page_3,"Fluid; 300x250; 320x50; 320x100; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_01_page_4,t_amodays_01_page_4,"Fluid; 300x250; 320x50; 320x100; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_01_page_5,t_amodays_01_page_5,"Fluid; 300x250; 320x50; 320x100; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_02,t_amodays_02,"1x1; 160x600; 300x250; 300x600",,amodays,_blank,,,no
+t_amodays_03,t_amodays_03,"Fluid; 1x1; 300x250; 320x50; 320x100; 728x90",,amodays,_blank,,,no
+t_amodays_03_page_2,t_amodays_03_page_2,"Fluid; 300x250; 320x50; 320x100",,amodays,_blank,,,no
+t_amodays_03_page_3,t_amodays_03_page_3,"Fluid; 300x250; 320x50; 320x100",,amodays,_blank,,,no
+t_amodays_03_page_4,t_amodays_03_page_4,"Fluid; 300x250; 320x50; 320x100",,amodays,_blank,,,no
+t_amodays_03_page_5,t_amodays_03_page_5,"Fluid; 300x250; 320x50; 320x100",,amodays,_blank,,,no
+t_amodays_04,t_amodays_04,"1x1; 160x600; 300x250; 300x600",,amodays,_blank,,,no
+t_amodays_05,t_amodays_05,"1x1; 300x250",,amodays,_blank,,,no
+t_amodays_05_page_2,t_amodays_05_page_2,300x250,,amodays,_blank,,,no
+t_amodays_05_page_3,t_amodays_05_page_3,300x250,,amodays,_blank,,,no
+t_amodays_05_page_4,t_amodays_05_page_4,300x250,,amodays,_blank,,,no
+t_amodays_05_page_5,t_amodays_05_page_5,300x250,,amodays,_blank,,,no
+t_amodays_07,t_amodays_07,300x250,,amodays,_blank,,,no
+t_amodays_anchor,t_amodays_anchor,"320x50; 320x100; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_infinite,t_amodays_infinite,"Fluid; 300x250; 320x50; 320x100; 728x90",,amodays,_blank,,,no
+t_amodays_infinite_page_2,t_amodays_infinite_page_2,"Fluid; 300x250; 320x50; 320x100; 728x90",,amodays,_blank,,,no
+t_amodays_infinite_page_3,t_amodays_infinite_page_3,"Fluid; 300x250; 320x50; 320x100; 728x90",,amodays,_blank,,,no
+t_amodays_infinite_page_4,t_amodays_infinite_page_4,"Fluid; 300x250; 320x50; 320x100; 728x90",,amodays,_blank,,,no
+t_amodays_intext_01,t_amodays_intext_01,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_01_page_2,t_amodays_intext_01_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_01_page_3,t_amodays_intext_01_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_01_page_4,t_amodays_intext_01_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_01_page_5,t_amodays_intext_01_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_02,t_amodays_intext_02,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_02_page_2,t_amodays_intext_02_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_02_page_3,t_amodays_intext_02_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_02_page_4,t_amodays_intext_02_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_02_page_5,t_amodays_intext_02_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_03,t_amodays_intext_03,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_03_page_2,t_amodays_intext_03_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_03_page_3,t_amodays_intext_03_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_03_page_4,t_amodays_intext_03_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_03_page_5,t_amodays_intext_03_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_04,t_amodays_intext_04,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_04_page_2,t_amodays_intext_04_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_04_page_3,t_amodays_intext_04_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_04_page_4,t_amodays_intext_04_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_04_page_5,t_amodays_intext_04_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_05,t_amodays_intext_05,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_05_page_2,t_amodays_intext_05_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_05_page_3,t_amodays_intext_05_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_05_page_4,t_amodays_intext_05_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_05_page_5,t_amodays_intext_05_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_06,t_amodays_intext_06,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_06_page_2,t_amodays_intext_06_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_06_page_3,t_amodays_intext_06_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_06_page_4,t_amodays_intext_06_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_06_page_5,t_amodays_intext_06_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_07,t_amodays_intext_07,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_07_page_2,t_amodays_intext_07_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_07_page_3,t_amodays_intext_07_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_07_page_4,t_amodays_intext_07_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_07_page_5,t_amodays_intext_07_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_08,t_amodays_intext_08,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_08_page_2,t_amodays_intext_08_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_08_page_3,t_amodays_intext_08_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_08_page_4,t_amodays_intext_08_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_08_page_5,t_amodays_intext_08_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_09,t_amodays_intext_09,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_09_page_2,t_amodays_intext_09_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_09_page_3,t_amodays_intext_09_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_09_page_4,t_amodays_intext_09_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_09_page_5,t_amodays_intext_09_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_10,t_amodays_intext_10,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_10_page_2,t_amodays_intext_10_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_10_page_3,t_amodays_intext_10_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_10_page_4,t_amodays_intext_10_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_10_page_5,t_amodays_intext_10_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_11,t_amodays_intext_11,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_11_page_2,t_amodays_intext_11_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_11_page_3,t_amodays_intext_11_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_11_page_4,t_amodays_intext_11_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_11_page_5,t_amodays_intext_11_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_12,t_amodays_intext_12,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_12_page_2,t_amodays_intext_12_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_12_page_3,t_amodays_intext_12_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_12_page_4,t_amodays_intext_12_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_12_page_5,t_amodays_intext_12_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_13,t_amodays_intext_13,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_13_page_2,t_amodays_intext_13_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_13_page_3,t_amodays_intext_13_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_13_page_4,t_amodays_intext_13_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_13_page_5,t_amodays_intext_13_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_14,t_amodays_intext_14,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_14_page_2,t_amodays_intext_14_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_14_page_3,t_amodays_intext_14_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_14_page_4,t_amodays_intext_14_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_14_page_5,t_amodays_intext_14_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_15,t_amodays_intext_15,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_15_page_2,t_amodays_intext_15_page_2,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_15_page_3,t_amodays_intext_15_page_3,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_15_page_4,t_amodays_intext_15_page_4,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
+t_amodays_intext_15_page_5,t_amodays_intext_15_page_5,"Fluid; 300x250; 320x50; 320x100; 336x280; 468x60; 728x90",,amodays,_blank,,,no
